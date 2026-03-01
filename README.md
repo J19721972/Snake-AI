@@ -25,6 +25,4 @@ cd SnakeAI
 ---
 
 ## Demo
-
-See SnakeAI in action on YouTube:  
-https://www.youtube.com/watch?v=UBhXXy21L6w
+[![Watch the demo](https://img.youtube.com/vi/UBhXXy21L6w/maxresdefault.jpg)](https://www.youtube.com/watch?v=UBhXXy21L6w)
